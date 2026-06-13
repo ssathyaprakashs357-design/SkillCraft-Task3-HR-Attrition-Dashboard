@@ -74,7 +74,9 @@ Data Storytelling	Visual Analytics
 https://drive.google.com/file/d/1hM4iWUctZ44_jgwY_kWxewI5Dr9JTuUq/view?usp=drivesdk
 
 📂 Dashboard Files & Assets: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6c395d8-dc2c-442d-9dd1-9b8b6c2b3af0" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c945a7f4-9713-4962-b39c-c9197b0da700" />
 
 
 -----
