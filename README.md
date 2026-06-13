@@ -68,6 +68,16 @@ Reporting	Business Intelligence Reporting
 Data Storytelling	Visual Analytics
 
 ⸻
+## Project Resources
+
+📹 Video Walkthrough: 
+https://drive.google.com/file/d/1hM4iWUctZ44_jgwY_kWxewI5Dr9JTuUq/view?usp=drivesdk
+
+📂 Dashboard Files & Assets: 
+
+
+
+-----
 
 Skills Demonstrated
 
